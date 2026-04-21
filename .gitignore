@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+dist/
+build/
+.expo/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Database
+*.db
+*.sqlite3
+system.db
+sql_app.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Context (internal)
+PROJECT_CONTEXT_FOR_CLAUDE.md
+implementation_plan.md
+task.md
+walkthrough.md
